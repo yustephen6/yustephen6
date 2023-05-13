@@ -1,6 +1,6 @@
 Sure, here's an example of a profile README for you:
 
-# Hi there, I'm [BO YU] 👋
+# Hi there, I'm BO YU 👋
 
 I'm a student at Shanghai Maritime University studying electrical engineering. Currently, I specialize in developing algorithms for permanent magnet synchronous motors (PMSMs) and have experience working with Linux device drivers.
 
